@@ -1,0 +1,71 @@
+[
+    {
+        "boala": "Absenta menstruatiei (amenoree)",
+        "simptome": [],
+        "cauze": [
+            "de defect ovarian primar sunt ageneza ovariana sau sindromul ovarelor micropolichistice (sindrom stein-leventahal"
+        ],
+        "tratament": {
+            "urgent": false,
+            "recomandari": [
+                "dozata prolactina din sange",
+                "realizate alte analize",
+                "consultat un ginecolog",
+                "efectuata dozarea cortizolului seric si testul de suprimare a cortizolului"
+            ]
+        }
+    },
+    {
+        "boala": "Acidoza (ph sangvin scazut)",
+        "simptome": [],
+        "cauze": [],
+        "tratament": {
+            "urgent": false,
+            "recomandari": []
+        }
+    },
+    {
+        "boala": "Afazie, apraxie, agnozie",
+        "simptome": [
+            "tulburare ce afecteaza realizarea gesturilor (de exemplu nu mai stie sa se imbrace"
+        ],
+        "cauze": [
+            "atingere (agnozie tactila) sau pe care le vede (agnozie vizuala"
+        ],
+        "tratament": {
+            "urgent": false,
+            "recomandari": [
+                "sa li se faca o hemoleucograma completa, biochimie, testul vdrl si o tomografie computerizata a creierului",
+                "consultat un neurolog inainte de a cere o punctie lombara",
+                "consultat un neurolog inainte de aceasta",
+                "realizata o ecografie doppler a arterelor carotide pentru a exclude stenoze carotidiene sau placi aterosclerotice ulcerate la acest nivel"
+            ]
+        }
+    },
+    {
+        "boala": "Alcaloza (ph sangvin crescut)",
+        "simptome": [],
+        "cauze": [],
+        "tratament": {
+            "urgent": false,
+            "recomandari": []
+        }
+    },
+    {
+        "boala": "Alopecie (cadere par)",
+        "simptome": [],
+        "cauze": [
+            "lipsa foliculilor pilosi si de cel de hipotricoza, care se refera la reducerea cantitatii de par in cadrul unor afectiuni congenitale",
+            "efectuarea testelor tiroidiene, dozarea anticorpilor antinucleari (ana), vdrl, hemoleucograma completa, fierul seric si feritina"
+        ],
+        "tratament": {
+            "urgent": false,
+            "recomandari": [
+                "diferentiat de cel de atrichie, care inseamna lipsa congenitala a parului prin lipsa foliculilor pilosi si de cel de hipotricoza, care se refera la reducerea cantitatii de par in cadrul unor afectiuni congenitale",
+                "facuta biopsie de piele din zona afectata",
+                "efectuata cultura din periajul pielii",
+                "efectuat consultul dermatologic"
+            ]
+        }
+    }
+]

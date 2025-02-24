@@ -1,0 +1,291 @@
+[
+    {
+        "boala": "Gripă",
+        "simptome": [
+            "febră mare",
+            "dureri musculare",
+            "tuse",
+            "durere în gât",
+            "oboseală",
+            "nas înfundat",
+            "frisoane",
+            "dureri de cap"
+        ],
+        "cauze": [
+            "virus gripal",
+            "contact cu persoane infectate",
+            "sezon rece"
+        ],
+        "tratament": {
+            "urgent": false,
+            "recomandari": [
+                "odihnă la pat",
+                "hidratare abundentă",
+                "paracetamol pentru febră",
+                "decongestionante nazale"
+            ],
+            "medicamente_posibile": [
+                "paracetamol",
+                "ibuprofen",
+                "decongestionante"
+            ]
+        },
+        "preventie": [
+            "vaccinare anuală",
+            "spălat frecvent pe mâini",
+            "evitarea contactului cu persoane bolnave"
+        ],
+        "cand_la_medic": [
+            "febră peste 39°C",
+            "dificultăți de respirație",
+            "dureri severe în piept",
+            "simptome care persistă peste 7 zile"
+        ],
+        "complicatii_posibile": [
+            "pneumonie",
+            "bronșită",
+            "sinuzită",
+            "otită"
+        ],
+        "grupuri_risc": [
+            "vârstnici",
+            "copii mici",
+            "gravide",
+            "persoane cu sistem imunitar slăbit"
+        ]
+    },
+    {
+        "boala": "COVID-19",
+        "simptome": [
+            "febră",
+            "tuse seacă",
+            "oboseală",
+            "dureri musculare",
+            "durere în gât",
+            "pierderea gustului",
+            "pierderea mirosului",
+            "dificultăți de respirație"
+        ],
+        "cauze": [
+            "virus SARS-CoV-2"
+        ],
+        "tratament": {
+            "urgent": true,
+            "recomandari": [
+                "izolare",
+                "consultare medic",
+                "monitorizare simptome"
+            ]
+        }
+    },
+    {
+        "boala": "Migrenă",
+        "simptome": [
+            "durere de cap pulsatilă",
+            "sensibilitate la lumină",
+            "sensibilitate la zgomot",
+            "greață",
+            "vărsături",
+            "vedere încețoșată",
+            "amețeală"
+        ],
+        "cauze": [
+            "stres",
+            "alimente specifice",
+            "schimbări hormonale",
+            "lipsa somnului"
+        ],
+        "tratament": {
+            "urgent": false,
+            "recomandari": [
+                "odihnă într-o cameră întunecată",
+                "evitarea zgomotelor",
+                "medicație antimigrenoasă"
+            ]
+        }
+    },
+    {
+        "boala": "Gastroenterită",
+        "simptome": [
+            "greață",
+            "vărsături",
+            "diaree",
+            "dureri abdominale",
+            "febră ușoară",
+            "lipsa poftei de mâncare",
+            "slăbiciune"
+        ],
+        "cauze": [
+            "virus",
+            "bacterii",
+            "alimente contaminate",
+            "apă contaminată"
+        ],
+        "tratament": {
+            "urgent": false,
+            "recomandari": [
+                "hidratare",
+                "dietă ușoară",
+                "probiotice"
+            ]
+        }
+    },
+    {
+        "boala": "Anxietate",
+        "simptome": [
+            "îngrijorare excesivă",
+            "agitație",
+            "dificultăți de concentrare",
+            "insomnie",
+            "palpitații",
+            "transpirații",
+            "tremurături",
+            "tensiune musculară"
+        ],
+        "cauze": [
+            "stres",
+            "traume",
+            "factori genetici",
+            "dezechilibre chimice în creier"
+        ],
+        "tratament": {
+            "urgent": false,
+            "recomandari": [
+                "terapie psihologică",
+                "tehnici de relaxare",
+                "exerciții fizice",
+                "meditație"
+            ]
+        }
+    },
+    {
+        "boala": "Hipertensiune",
+        "simptome": [
+            "dureri de cap",
+            "amețeli",
+            "vedere încețoșată",
+            "oboseală",
+            "dificultăți de respirație",
+            "sângerări nazale",
+            "anxietate"
+        ],
+        "cauze": [
+            "factori genetici",
+            "stres",
+            "dietă bogată în sare",
+            "sedentarism",
+            "obezitate"
+        ],
+        "tratament": {
+            "urgent": true,
+            "recomandari": [
+                "monitorizare tensiune",
+                "reducere consum de sare",
+                "exerciții fizice regulate",
+                "medicație prescrisă de medic"
+            ]
+        }
+    },
+    {
+        "questions": [
+            "Am febră, dureri în gât și tuse",
+            "Tușesc și am febră",
+            "Am durere în gât și febră",
+            "Care sunt simptomele răcelii?",
+            "Cum știu dacă am răceală?"
+        ],
+        "answer": "Simptomele descrise (febră, durere în gât, tuse) sunt tipice pentru o răceală sau gripă. Pentru răceală: odihniți-vă, beți multe lichide, și luați paracetamol pentru febră. Consultați medicul dacă simptomele persistă peste 7 zile sau dacă febra depășește 39°C."
+    },
+    {
+        "questions": [
+            "Am dureri de cap și amețeli",
+            "Mă doare capul și sunt amețit",
+            "Am amețeli frecvente",
+            "De ce am dureri de cap și amețeli?"
+        ],
+        "answer": "Durerile de cap însoțite de amețeli pot indica mai multe probleme: tensiune arterială crescută, migrenă, sau oboseală. Verificați-vă tensiunea arterială și consultați medicul, mai ales dacă simptomele sunt frecvente sau severe."
+    },
+    {
+        "questions": [
+            "Am greață și vărsături",
+            "Mi-e rău și vomit",
+            "Am stări de greață",
+            "De ce îmi vine să vomit?"
+        ],
+        "answer": "Greața și vărsăturile pot fi cauzate de: toxiinfecție alimentară, virus stomacal, sau sarcină. Evitați mâncarea solidă temporar, beți lichide în cantități mici și frecvent. Consultați medicul dacă simptomele persistă peste 24 de ore sau dacă apar și alte simptome."
+    },
+    {
+        "questions": [
+            "Am dureri abdominale și diaree",
+            "Mă doare burta și am diaree",
+            "Am crampe stomacale",
+            "De ce am diaree?"
+        ],
+        "answer": "Diareea și durerile abdominale pot indica: gastroenterită, intoxicație alimentară, sau sindrom de colon iritabil. Important: hidratați-vă abundent, evitați alimentele grase și condimentate. Consultați medicul dacă simptomele persistă peste 48 de ore sau dacă apare și febră."
+    },
+    {
+        "questions": [
+            "Am dificultăți de respirație",
+            "Respir greu",
+            "Nu pot să respir bine",
+            "De ce gâfâi?"
+        ],
+        "answer": "Dificultățile de respirație pot indica: astm, anxietate, sau probleme cardiace. Dacă este un episod brusc și sever, solicitați imediat ajutor medical. Pentru episoade ușoare, încercați să vă relaxați și să respirați lent și profund."
+    },
+    {
+        "questions": [
+            "Am dureri în piept",
+            "Mă doare în piept",
+            "Simt o presiune în piept",
+            "De ce mă doare în piept?"
+        ],
+        "answer": "ATENȚIE! Durerile în piept pot fi serioase și pot indica probleme cardiace. Solicitați IMEDIAT ajutor medical, mai ales dacă durerea este intensă, se extinde în braț sau este însoțită de dificultăți de respirație."
+    },
+    {
+        "questions": [
+            "Am erupții pe piele",
+            "Mi-au apărut pete roșii pe piele",
+            "Am mâncărimi pe piele",
+            "De ce am erupții cutanate?"
+        ],
+        "answer": "Erupțiile cutanate pot fi cauzate de: alergii, dermatită, sau infecții. Evitați să vă scărpinați, folosiți creme calmante. Consultați medicul dacă erupția este extinsă, dureroasă sau însoțită de febră."
+    },
+    {
+        "questions": [
+            "Am dureri articulare",
+            "Mă dor articulațiile",
+            "Am dureri în genunchi și coate",
+            "De ce mă dor încheieturile?"
+        ],
+        "answer": "Durerile articulare pot indica: artroză, artrită reumatoidă, sau gută. Odihniți articulațiile afectate, aplicați comprese reci/calde. Consultați medicul pentru diagnostic precis și tratament specific."
+    },
+    {
+        "questions": [
+            "Am oboseală constantă",
+            "Mă simt mereu obosit",
+            "Nu am energie",
+            "De ce sunt mereu obosit?"
+        ],
+        "answer": "Oboseala constantă poate indica: anemie, depresie, hipotiroidism, sau deficit de vitamine. Verificați-vă programul de somn, alimentația și nivelul de stres. Consultați medicul pentru analize complete."
+    },
+    {
+        "questions": [
+            "Am anxietate",
+            "Mă simt anxios",
+            "Am atacuri de panică",
+            "De ce am anxietate?"
+        ],
+        "answer": "Anxietatea poate fi cauzată de: stres, traume, sau dezechilibre chimice în creier. Încercați tehnici de respirație și relaxare. Este recomandată consultarea unui psiholog sau psihiatru pentru evaluare și tratament specific."
+    },
+    {
+        "questions": [
+            "Mă doare piciorul",
+            "Am dureri în picior",
+            "Simt durere la picior",
+            "De ce mă doare piciorul?",
+            "Am dureri în gambă",
+            "Mă dor gleznele"
+        ],
+        "answer": "Durerile de picior pot avea mai multe cauze: oboseală musculară, entorsă, probleme circulatorii, sau inflamații. Pentru dureri ușoare: odihniți piciorul, aplicați comprese reci/calde și ridicați piciorul deasupra nivelului inimii. Consultați medicul dacă: durerea este severă, apare umflătură semnificativă, sau nu puteți pune presiune pe picior."
+    }
+]
